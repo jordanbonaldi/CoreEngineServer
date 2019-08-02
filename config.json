@@ -1,0 +1,6 @@
+{
+  "pluginConfig": "manifest.json",
+  "threads": 10,
+  "port": 2525,
+  "routes": ["CoreInfoRoute", "ChannelMessagesRoute"]
+}
