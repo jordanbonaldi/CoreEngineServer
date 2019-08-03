@@ -1,6 +1,6 @@
 {
  "channel": "TradingPlugin",
- "routes": [],
+ "routes": ["TradeInformation"],
  "ip" : "127.0.0.1",
  "password": "toto1",
  "redisPort": "6379"
