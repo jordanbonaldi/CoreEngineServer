@@ -1,7 +1,7 @@
 {
   "pluginConfig": "manifest.json",
   "threads": 14,
-  "port": 2525,
+  "port": 2526,
   "routes": ["CoreInfoRoute", "ChannelMessagesRoute"],
   "redis": "true",
   "redisIp": 127.0.0.1,
